@@ -1,0 +1,8 @@
+{
+  "name": "nlessdigitalzone",
+  "compatibility_date": "2026-10-31",
+  // Static site: serve the repo root as assets, no Worker script needed.
+  "assets": {
+    "directory": "./"
+  }
+}
